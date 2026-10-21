@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Catalog Products</string>
+    <string name="menu_products">Products</string>
+    <string name="menu_profile">Profile</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="loading">Memuat data&#8230;</string>
+    <string name="error_fetch">Gagal memuat data produk. Periksa koneksi internet Anda.</string>
+    <string name="view_all_reviews">Lihat Semua Review</string>
+    <string name="title_all_reviews">Semua Ulasan Produk</string>
+    <string name="no_reviews">Belum ada ulasan untuk produk ini.</string>
+    <string name="developer_profile">Profil Developer</string>
+    <string name="dev_name">Makruf</string>
+    <string name="dev_email">makruf@student.polbeng.ac.id</string>
+    <string name="dev_phone">0812&#8211;3456&#8211;7890</string>
+    <string name="dev_prodi">D4 Rekayasa Perangkat Lunak</string>
+    <string name="dev_jurusan">Teknik Informatika</string>
+    <string name="dev_campus">Politeknik Negeri Bengkalis</string>
+    <string name="desc_thumbnail">Thumbnail Produk</string>
+    <string name="desc_star">Star Rating</string>
+    <string name="title_gallery">Galeri Gambar</string>
+    <string name="title_description">Deskripsi Produk</string>
+    <string name="title_dimensions">Spesifikasi Dimensi</string>
+    <string name="title_tags">Tags</string>
+    <string name="title_reviews_top">Ulasan Pelanggan (Teratas)</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">No. HP / WhatsApp</string>
+    <string name="label_prodi">Program Studi</string>
+    <string name="label_jurusan">Jurusan</string>
+    <string name="label_campus">Perguruan Tinggi</string>
+    <string name="dim_not_available">Dimensi tidak tersedia</string>
+</resources>
